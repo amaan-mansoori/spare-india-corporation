@@ -1,63 +1,65 @@
 "use client";
 
 import React from "react";
-import { cn } from "@/lib/utils";
-import { motion, HTMLMotionProps } from "framer-motion";
-import Link from "next/link";
 
-interface ButtonProps extends HTMLMotionProps<"button"> {
-    variant?: "primary" | "secondary" | "outline" | "ghost";
-    size?: "sm" | "md" | "lg";
+interface ButtonProps {
+    children: React.ReactNode;
     href?: string;
     external?: boolean;
+    onClick?: () => void;
+    className?: string;
+    variant?: "primary" | "ghost" | "outline";
+    size?: "sm" | "md" | "lg";
 }
 
-export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
-    ({ className, variant = "primary", size = "md", href, external, children, ...props }, ref) => {
-        const baseStyles = "inline-flex items-center justify-center rounded-xl font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none";
+export function Button({
+    children,
+    href,
+    external = false,
+    onClick,
+    className = "",
+    variant = "primary",
+    size = "md",
+}: ButtonProps) {
 
-        const variants = {
-            primary: "bg-[var(--primary)] text-white hover:bg-[var(--primary-hover)] shadow-lg shadow-blue-500/30",
-            secondary: "bg-[var(--secondary)] text-[var(--secondary-foreground)] hover:bg-[#e5e5ea]",
-            outline: "border border-[var(--border)] bg-transparent hover:bg-[var(--secondary)]",
-            ghost: "bg-transparent hover:bg-[var(--secondary)] text-[var(--foreground)]",
-        };
+    // base styles
+    const base =
+        "inline-flex items-center justify-center rounded-xl font-medium transition-all duration-300 hover:scale-105 active:scale-95";
 
-        const sizes = {
-            sm: "h-9 px-4 text-sm",
-            md: "h-11 px-6 text-base",
-            lg: "h-14 px-8 text-lg",
-        };
+    // variant styles
+    const variants = {
+        primary: "bg-blue-600 text-white hover:bg-blue-700",
+        ghost: "text-gray-600 hover:bg-gray-100",
+        outline: "border border-gray-300 text-gray-700 hover:bg-gray-50",
+    };
 
-        const combinedClasses = cn(baseStyles, variants[variant], sizes[size], className);
+    // size styles
+    const sizes = {
+        sm: "px-3 py-1.5 text-sm",
+        md: "px-5 py-2 text-base",
+        lg: "px-7 py-3 text-lg",
+    };
 
-        if (href) {
-            if (external) {
-                return (
-                    <a href={href} className={combinedClasses} target="_blank" rel="noopener noreferrer">
-                        {children}
-                    </a>
-                );
-            }
-            return (
-                <Link href={href} className={combinedClasses}>
-                    {children}
-                </Link>
-            );
-        }
+    const combinedClasses = `${base} ${variants[variant]} ${sizes[size]} ${className}`;
 
+    // link button
+    if (href) {
         return (
-            <motion.button
-                ref={ref}
+            <a
+                href={href}
+                target={external ? "_blank" : "_self"}
+                rel="noopener noreferrer"
                 className={combinedClasses}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-                {...props}
             >
                 {children}
-            </motion.button>
+            </a>
         );
     }
-);
 
-Button.displayName = "Button";
+    // normal button
+    return (
+        <button onClick={onClick} className={combinedClasses}>
+            {children}
+        </button>
+    );
+}
