@@ -1,65 +1,70 @@
 "use client";
 
 import React from "react";
+import { motion } from "framer-motion";
+import clsx from "clsx";
 
 interface ButtonProps {
     children: React.ReactNode;
-    href?: string;
-    external?: boolean;
     onClick?: () => void;
     className?: string;
-    variant?: "primary" | "ghost" | "outline";
+    variant?: "default" | "outline" | "ghost";
     size?: "sm" | "md" | "lg";
+    href?: string;
 }
 
-export function Button({
+export default function Button({
     children,
-    href,
-    external = false,
     onClick,
-    className = "",
-    variant = "primary",
+    className,
+    variant = "default",
     size = "md",
+    href,
 }: ButtonProps) {
 
-    // base styles
     const base =
-        "inline-flex items-center justify-center rounded-xl font-medium transition-all duration-300 hover:scale-105 active:scale-95";
+        "inline-flex items-center justify-center font-medium rounded-xl transition-all duration-300";
 
-    // variant styles
     const variants = {
-        primary: "bg-blue-600 text-white hover:bg-blue-700",
-        ghost: "text-gray-600 hover:bg-gray-100",
-        outline: "border border-gray-300 text-gray-700 hover:bg-gray-50",
+        default: "bg-blue-600 text-white hover:bg-blue-700 shadow-md",
+        outline: "border border-gray-300 hover:bg-gray-100",
+        ghost: "hover:bg-gray-100",
     };
 
-    // size styles
     const sizes = {
-        sm: "px-3 py-1.5 text-sm",
-        md: "px-5 py-2 text-base",
-        lg: "px-7 py-3 text-lg",
+        sm: "px-4 py-2 text-sm",
+        md: "px-6 py-3 text-base",
+        lg: "px-8 py-4 text-lg",
     };
 
-    const combinedClasses = `${base} ${variants[variant]} ${sizes[size]} ${className}`;
+    const combinedClasses = clsx(
+        base,
+        variants[variant],
+        sizes[size],
+        className
+    );
 
-    // link button
     if (href) {
         return (
-            <a
+            <motion.a
                 href={href}
-                target={external ? "_blank" : "_self"}
-                rel="noopener noreferrer"
                 className={combinedClasses}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.97 }}
             >
                 {children}
-            </a>
+            </motion.a>
         );
     }
 
-    // normal button
     return (
-        <button onClick={onClick} className={combinedClasses}>
+        <motion.button
+            onClick={onClick}
+            className={combinedClasses}
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.97 }}
+        >
             {children}
-        </button>
+        </motion.button>
     );
 }
