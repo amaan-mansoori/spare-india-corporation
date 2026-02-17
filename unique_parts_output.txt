@@ -1,0 +1,40 @@
+=== SPARE INDIA COOL - UNIQUE SPARE PART TYPES ===
+
+AC Spare Parts:
+(Total Unique Types: 10)
+* Blower Wheel
+* Capacitor
+* Compressor
+* Copper Pipe
+* Drain Pipe
+* Fan Motor
+* PCB Board
+* Remote Control
+* Swing Motor
+* Thermistor
+
+Refrigerator Spare Parts:
+(Total Unique Types: 6)
+* Compressor
+* Defrost Heater
+* Door Gasket
+* Fan Motor
+* PCB Board
+* Thermostat
+
+Washing Machine Spare Parts:
+(Total Unique Types: 6)
+* Belt
+* Drain Pump
+* Inlet Valve
+* Shock Absorber
+* Timer
+* Wash Motor
+
+AC Gas Cylinders:
+(Total Unique Types: 4)
+* R134a Gas Can
+* R22 Gas Cylinder
+* R32 Gas Cylinder
+* R410A Gas Cylinder
+

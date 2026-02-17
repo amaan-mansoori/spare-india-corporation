@@ -1,0 +1,5506 @@
+[
+  {
+    "id": 1,
+    "name": "LG Split AC Compressor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LG Split AC Fan Motor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 3,
+    "name": "LG Split AC Capacitor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 4,
+    "name": "LG Split AC PCB Board",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 5,
+    "name": "LG Split AC Thermistor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LG Split AC Swing Motor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 7,
+    "name": "LG Split AC Blower Wheel",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 8,
+    "name": "LG Split AC Remote Control",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 9,
+    "name": "LG Split AC Copper Pipe",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 10,
+    "name": "LG Split AC Drain Pipe",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 11,
+    "name": "LG Window AC Compressor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 12,
+    "name": "LG Window AC Fan Motor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 13,
+    "name": "LG Window AC Capacitor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 14,
+    "name": "LG Window AC PCB Board",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 15,
+    "name": "LG Window AC Thermistor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 16,
+    "name": "LG Window AC Swing Motor",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 17,
+    "name": "LG Window AC Blower Wheel",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 18,
+    "name": "LG Window AC Remote Control",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 19,
+    "name": "LG Window AC Copper Pipe",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 20,
+    "name": "LG Window AC Drain Pipe",
+    "brand": "LG",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Samsung Split AC Compressor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Split AC Fan Motor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Samsung Split AC Capacitor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Samsung Split AC PCB Board",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Samsung Split AC Thermistor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Samsung Split AC Swing Motor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Samsung Split AC Blower Wheel",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Samsung Split AC Remote Control",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Samsung Split AC Copper Pipe",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Samsung Split AC Drain Pipe",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Samsung Window AC Compressor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Samsung Window AC Fan Motor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Samsung Window AC Capacitor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Samsung Window AC PCB Board",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Samsung Window AC Thermistor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Samsung Window AC Swing Motor",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Samsung Window AC Blower Wheel",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Samsung Window AC Remote Control",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Samsung Window AC Copper Pipe",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Samsung Window AC Drain Pipe",
+    "brand": "Samsung",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Whirlpool Split AC Compressor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Whirlpool Split AC Fan Motor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Whirlpool Split AC Capacitor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Whirlpool Split AC PCB Board",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Whirlpool Split AC Thermistor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Whirlpool Split AC Swing Motor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Whirlpool Split AC Blower Wheel",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Whirlpool Split AC Remote Control",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Whirlpool Split AC Copper Pipe",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Whirlpool Split AC Drain Pipe",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Whirlpool Window AC Compressor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Whirlpool Window AC Fan Motor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Whirlpool Window AC Capacitor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Whirlpool Window AC PCB Board",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Whirlpool Window AC Thermistor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Whirlpool Window AC Swing Motor",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Whirlpool Window AC Blower Wheel",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Whirlpool Window AC Remote Control",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Whirlpool Window AC Copper Pipe",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Whirlpool Window AC Drain Pipe",
+    "brand": "Whirlpool",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Voltas Split AC Compressor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Voltas Split AC Fan Motor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Voltas Split AC Capacitor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Voltas Split AC PCB Board",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Voltas Split AC Thermistor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Voltas Split AC Swing Motor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Voltas Split AC Blower Wheel",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Voltas Split AC Remote Control",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Voltas Split AC Copper Pipe",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Voltas Split AC Drain Pipe",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Voltas Window AC Compressor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Voltas Window AC Fan Motor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Voltas Window AC Capacitor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Voltas Window AC PCB Board",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Voltas Window AC Thermistor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Voltas Window AC Swing Motor",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Voltas Window AC Blower Wheel",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Voltas Window AC Remote Control",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Voltas Window AC Copper Pipe",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Voltas Window AC Drain Pipe",
+    "brand": "Voltas",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Daikin Split AC Compressor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Daikin Split AC Fan Motor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Daikin Split AC Capacitor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Daikin Split AC PCB Board",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Daikin Split AC Thermistor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Daikin Split AC Swing Motor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Daikin Split AC Blower Wheel",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Daikin Split AC Remote Control",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Daikin Split AC Copper Pipe",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Daikin Split AC Drain Pipe",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Daikin Window AC Compressor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Daikin Window AC Fan Motor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Daikin Window AC Capacitor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Daikin Window AC PCB Board",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Daikin Window AC Thermistor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Daikin Window AC Swing Motor",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Daikin Window AC Blower Wheel",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Daikin Window AC Remote Control",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Daikin Window AC Copper Pipe",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Daikin Window AC Drain Pipe",
+    "brand": "Daikin",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Godrej Split AC Compressor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Godrej Split AC Fan Motor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Godrej Split AC Capacitor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Godrej Split AC PCB Board",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Godrej Split AC Thermistor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Godrej Split AC Swing Motor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Godrej Split AC Blower Wheel",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Godrej Split AC Remote Control",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Godrej Split AC Copper Pipe",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Godrej Split AC Drain Pipe",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Godrej Window AC Compressor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Godrej Window AC Fan Motor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Godrej Window AC Capacitor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Godrej Window AC PCB Board",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Godrej Window AC Thermistor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Godrej Window AC Swing Motor",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Godrej Window AC Blower Wheel",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Godrej Window AC Remote Control",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Godrej Window AC Copper Pipe",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Godrej Window AC Drain Pipe",
+    "brand": "Godrej",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Panasonic Split AC Compressor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Panasonic Split AC Fan Motor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Panasonic Split AC Capacitor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Panasonic Split AC PCB Board",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Panasonic Split AC Thermistor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Panasonic Split AC Swing Motor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Panasonic Split AC Blower Wheel",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Panasonic Split AC Remote Control",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Panasonic Split AC Copper Pipe",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Panasonic Split AC Drain Pipe",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Panasonic Window AC Compressor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Panasonic Window AC Fan Motor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Panasonic Window AC Capacitor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Panasonic Window AC PCB Board",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Panasonic Window AC Thermistor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Panasonic Window AC Swing Motor",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Panasonic Window AC Blower Wheel",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Panasonic Window AC Remote Control",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Panasonic Window AC Copper Pipe",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Panasonic Window AC Drain Pipe",
+    "brand": "Panasonic",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Hitachi Split AC Compressor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Hitachi Split AC Fan Motor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Hitachi Split AC Capacitor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Hitachi Split AC PCB Board",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Hitachi Split AC Thermistor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Hitachi Split AC Swing Motor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Hitachi Split AC Blower Wheel",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Hitachi Split AC Remote Control",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Hitachi Split AC Copper Pipe",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Hitachi Split AC Drain Pipe",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Hitachi Window AC Compressor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Hitachi Window AC Fan Motor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Hitachi Window AC Capacitor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Hitachi Window AC PCB Board",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Hitachi Window AC Thermistor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Hitachi Window AC Swing Motor",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Hitachi Window AC Blower Wheel",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Hitachi Window AC Remote Control",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Hitachi Window AC Copper Pipe",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Hitachi Window AC Drain Pipe",
+    "brand": "Hitachi",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Blue Star Split AC Compressor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Blue Star Split AC Fan Motor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Blue Star Split AC Capacitor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Blue Star Split AC PCB Board",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Blue Star Split AC Thermistor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Blue Star Split AC Swing Motor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Blue Star Split AC Blower Wheel",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Blue Star Split AC Remote Control",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Blue Star Split AC Copper Pipe",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Blue Star Split AC Drain Pipe",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Blue Star Window AC Compressor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Blue Star Window AC Fan Motor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Blue Star Window AC Capacitor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Blue Star Window AC PCB Board",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Blue Star Window AC Thermistor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Blue Star Window AC Swing Motor",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Blue Star Window AC Blower Wheel",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Blue Star Window AC Remote Control",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Blue Star Window AC Copper Pipe",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Blue Star Window AC Drain Pipe",
+    "brand": "Blue Star",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Haier Split AC Compressor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Haier Split AC Fan Motor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Haier Split AC Capacitor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Haier Split AC PCB Board",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Haier Split AC Thermistor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Haier Split AC Swing Motor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Haier Split AC Blower Wheel",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Haier Split AC Remote Control",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Haier Split AC Copper Pipe",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Haier Split AC Drain Pipe",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Haier Window AC Compressor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Haier Window AC Fan Motor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Haier Window AC Capacitor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Haier Window AC PCB Board",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 195,
+    "name": "Haier Window AC Thermistor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Haier Window AC Swing Motor",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Haier Window AC Blower Wheel",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Haier Window AC Remote Control",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Haier Window AC Copper Pipe",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Haier Window AC Drain Pipe",
+    "brand": "Haier",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 201,
+    "name": "IFB Split AC Compressor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 202,
+    "name": "IFB Split AC Fan Motor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 203,
+    "name": "IFB Split AC Capacitor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 204,
+    "name": "IFB Split AC PCB Board",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 205,
+    "name": "IFB Split AC Thermistor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 206,
+    "name": "IFB Split AC Swing Motor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 207,
+    "name": "IFB Split AC Blower Wheel",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 208,
+    "name": "IFB Split AC Remote Control",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 209,
+    "name": "IFB Split AC Copper Pipe",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 210,
+    "name": "IFB Split AC Drain Pipe",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 211,
+    "name": "IFB Window AC Compressor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 212,
+    "name": "IFB Window AC Fan Motor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 213,
+    "name": "IFB Window AC Capacitor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 214,
+    "name": "IFB Window AC PCB Board",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 215,
+    "name": "IFB Window AC Thermistor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 216,
+    "name": "IFB Window AC Swing Motor",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 217,
+    "name": "IFB Window AC Blower Wheel",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 218,
+    "name": "IFB Window AC Remote Control",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 219,
+    "name": "IFB Window AC Copper Pipe",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 220,
+    "name": "IFB Window AC Drain Pipe",
+    "brand": "IFB",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Bosch Split AC Compressor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Bosch Split AC Fan Motor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Bosch Split AC Capacitor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Bosch Split AC PCB Board",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Bosch Split AC Thermistor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Bosch Split AC Swing Motor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Bosch Split AC Blower Wheel",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Bosch Split AC Remote Control",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Bosch Split AC Copper Pipe",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Bosch Split AC Drain Pipe",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Bosch Window AC Compressor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Bosch Window AC Fan Motor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Bosch Window AC Capacitor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Bosch Window AC PCB Board",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Bosch Window AC Thermistor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Bosch Window AC Swing Motor",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Bosch Window AC Blower Wheel",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Bosch Window AC Remote Control",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Bosch Window AC Copper Pipe",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Bosch Window AC Drain Pipe",
+    "brand": "Bosch",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Onida Split AC Compressor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Onida Split AC Fan Motor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Onida Split AC Capacitor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Onida Split AC PCB Board",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Onida Split AC Thermistor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Onida Split AC Swing Motor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Onida Split AC Blower Wheel",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Onida Split AC Remote Control",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Onida Split AC Copper Pipe",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Onida Split AC Drain Pipe",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Onida Window AC Compressor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Onida Window AC Fan Motor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Onida Window AC Capacitor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Onida Window AC PCB Board",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Onida Window AC Thermistor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Onida Window AC Swing Motor",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Onida Window AC Blower Wheel",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Onida Window AC Remote Control",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Onida Window AC Copper Pipe",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Onida Window AC Drain Pipe",
+    "brand": "Onida",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Videocon Split AC Compressor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Videocon Split AC Fan Motor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Videocon Split AC Capacitor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Videocon Split AC PCB Board",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Videocon Split AC Thermistor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Videocon Split AC Swing Motor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Videocon Split AC Blower Wheel",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Videocon Split AC Remote Control",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Videocon Split AC Copper Pipe",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Videocon Split AC Drain Pipe",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Videocon Window AC Compressor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 272,
+    "name": "Videocon Window AC Fan Motor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Videocon Window AC Capacitor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Videocon Window AC PCB Board",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Videocon Window AC Thermistor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Videocon Window AC Swing Motor",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Videocon Window AC Blower Wheel",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Videocon Window AC Remote Control",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Videocon Window AC Copper Pipe",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Videocon Window AC Drain Pipe",
+    "brand": "Videocon",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Lloyd Split AC Compressor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Lloyd Split AC Fan Motor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Lloyd Split AC Capacitor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Lloyd Split AC PCB Board",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Lloyd Split AC Thermistor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Lloyd Split AC Swing Motor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Lloyd Split AC Blower Wheel",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Lloyd Split AC Remote Control",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Lloyd Split AC Copper Pipe",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Lloyd Split AC Drain Pipe",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Split AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Lloyd Window AC Compressor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/compressor.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Lloyd Window AC Fan Motor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/fan-motor.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Lloyd Window AC Capacitor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/capacitor.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Lloyd Window AC PCB Board",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/pcb-board.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Lloyd Window AC Thermistor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/thermistor.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Lloyd Window AC Swing Motor",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/swing-motor.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Lloyd Window AC Blower Wheel",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/blower-wheel.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Lloyd Window AC Remote Control",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/remote-control.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Lloyd Window AC Copper Pipe",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/copper-pipe.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Lloyd Window AC Drain Pipe",
+    "brand": "Lloyd",
+    "category": "AC Spare Parts",
+    "machineType": "Window AC",
+    "image": "/images/products/ac/drain-pipe.jpg"
+  },
+  {
+    "id": 301,
+    "name": "LG Single Door Refrigerator Compressor",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 302,
+    "name": "LG Single Door Refrigerator Thermostat",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 303,
+    "name": "LG Single Door Refrigerator Defrost Heater",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 304,
+    "name": "LG Single Door Refrigerator Fan Motor",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 305,
+    "name": "LG Single Door Refrigerator PCB Board",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 306,
+    "name": "LG Single Door Refrigerator Door Gasket",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 307,
+    "name": "LG Double Door Refrigerator Compressor",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 308,
+    "name": "LG Double Door Refrigerator Thermostat",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 309,
+    "name": "LG Double Door Refrigerator Defrost Heater",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 310,
+    "name": "LG Double Door Refrigerator Fan Motor",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 311,
+    "name": "LG Double Door Refrigerator PCB Board",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 312,
+    "name": "LG Double Door Refrigerator Door Gasket",
+    "brand": "LG",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Samsung Single Door Refrigerator Compressor",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Samsung Single Door Refrigerator Thermostat",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Samsung Single Door Refrigerator Defrost Heater",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 316,
+    "name": "Samsung Single Door Refrigerator Fan Motor",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Samsung Single Door Refrigerator PCB Board",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Samsung Single Door Refrigerator Door Gasket",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Samsung Double Door Refrigerator Compressor",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Samsung Double Door Refrigerator Thermostat",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 321,
+    "name": "Samsung Double Door Refrigerator Defrost Heater",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Samsung Double Door Refrigerator Fan Motor",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Samsung Double Door Refrigerator PCB Board",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Samsung Double Door Refrigerator Door Gasket",
+    "brand": "Samsung",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Whirlpool Single Door Refrigerator Compressor",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Whirlpool Single Door Refrigerator Thermostat",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Whirlpool Single Door Refrigerator Defrost Heater",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 328,
+    "name": "Whirlpool Single Door Refrigerator Fan Motor",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 329,
+    "name": "Whirlpool Single Door Refrigerator PCB Board",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Whirlpool Single Door Refrigerator Door Gasket",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 331,
+    "name": "Whirlpool Double Door Refrigerator Compressor",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Whirlpool Double Door Refrigerator Thermostat",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 333,
+    "name": "Whirlpool Double Door Refrigerator Defrost Heater",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Whirlpool Double Door Refrigerator Fan Motor",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 335,
+    "name": "Whirlpool Double Door Refrigerator PCB Board",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Whirlpool Double Door Refrigerator Door Gasket",
+    "brand": "Whirlpool",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Voltas Single Door Refrigerator Compressor",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 338,
+    "name": "Voltas Single Door Refrigerator Thermostat",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Voltas Single Door Refrigerator Defrost Heater",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 340,
+    "name": "Voltas Single Door Refrigerator Fan Motor",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 341,
+    "name": "Voltas Single Door Refrigerator PCB Board",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 342,
+    "name": "Voltas Single Door Refrigerator Door Gasket",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 343,
+    "name": "Voltas Double Door Refrigerator Compressor",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 344,
+    "name": "Voltas Double Door Refrigerator Thermostat",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Voltas Double Door Refrigerator Defrost Heater",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 346,
+    "name": "Voltas Double Door Refrigerator Fan Motor",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 347,
+    "name": "Voltas Double Door Refrigerator PCB Board",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Voltas Double Door Refrigerator Door Gasket",
+    "brand": "Voltas",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 349,
+    "name": "Daikin Single Door Refrigerator Compressor",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Daikin Single Door Refrigerator Thermostat",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Daikin Single Door Refrigerator Defrost Heater",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Daikin Single Door Refrigerator Fan Motor",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Daikin Single Door Refrigerator PCB Board",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Daikin Single Door Refrigerator Door Gasket",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Daikin Double Door Refrigerator Compressor",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 356,
+    "name": "Daikin Double Door Refrigerator Thermostat",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 357,
+    "name": "Daikin Double Door Refrigerator Defrost Heater",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 358,
+    "name": "Daikin Double Door Refrigerator Fan Motor",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 359,
+    "name": "Daikin Double Door Refrigerator PCB Board",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Daikin Double Door Refrigerator Door Gasket",
+    "brand": "Daikin",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Godrej Single Door Refrigerator Compressor",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 362,
+    "name": "Godrej Single Door Refrigerator Thermostat",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Godrej Single Door Refrigerator Defrost Heater",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Godrej Single Door Refrigerator Fan Motor",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Godrej Single Door Refrigerator PCB Board",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 366,
+    "name": "Godrej Single Door Refrigerator Door Gasket",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Godrej Double Door Refrigerator Compressor",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Godrej Double Door Refrigerator Thermostat",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 369,
+    "name": "Godrej Double Door Refrigerator Defrost Heater",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 370,
+    "name": "Godrej Double Door Refrigerator Fan Motor",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Godrej Double Door Refrigerator PCB Board",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Godrej Double Door Refrigerator Door Gasket",
+    "brand": "Godrej",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 373,
+    "name": "Panasonic Single Door Refrigerator Compressor",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 374,
+    "name": "Panasonic Single Door Refrigerator Thermostat",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Panasonic Single Door Refrigerator Defrost Heater",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Panasonic Single Door Refrigerator Fan Motor",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Panasonic Single Door Refrigerator PCB Board",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Panasonic Single Door Refrigerator Door Gasket",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Panasonic Double Door Refrigerator Compressor",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Panasonic Double Door Refrigerator Thermostat",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Panasonic Double Door Refrigerator Defrost Heater",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Panasonic Double Door Refrigerator Fan Motor",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 383,
+    "name": "Panasonic Double Door Refrigerator PCB Board",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 384,
+    "name": "Panasonic Double Door Refrigerator Door Gasket",
+    "brand": "Panasonic",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 385,
+    "name": "Hitachi Single Door Refrigerator Compressor",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 386,
+    "name": "Hitachi Single Door Refrigerator Thermostat",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 387,
+    "name": "Hitachi Single Door Refrigerator Defrost Heater",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Hitachi Single Door Refrigerator Fan Motor",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 389,
+    "name": "Hitachi Single Door Refrigerator PCB Board",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 390,
+    "name": "Hitachi Single Door Refrigerator Door Gasket",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 391,
+    "name": "Hitachi Double Door Refrigerator Compressor",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 392,
+    "name": "Hitachi Double Door Refrigerator Thermostat",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 393,
+    "name": "Hitachi Double Door Refrigerator Defrost Heater",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 394,
+    "name": "Hitachi Double Door Refrigerator Fan Motor",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 395,
+    "name": "Hitachi Double Door Refrigerator PCB Board",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 396,
+    "name": "Hitachi Double Door Refrigerator Door Gasket",
+    "brand": "Hitachi",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 397,
+    "name": "Blue Star Single Door Refrigerator Compressor",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 398,
+    "name": "Blue Star Single Door Refrigerator Thermostat",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 399,
+    "name": "Blue Star Single Door Refrigerator Defrost Heater",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 400,
+    "name": "Blue Star Single Door Refrigerator Fan Motor",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 401,
+    "name": "Blue Star Single Door Refrigerator PCB Board",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 402,
+    "name": "Blue Star Single Door Refrigerator Door Gasket",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 403,
+    "name": "Blue Star Double Door Refrigerator Compressor",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 404,
+    "name": "Blue Star Double Door Refrigerator Thermostat",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Blue Star Double Door Refrigerator Defrost Heater",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 406,
+    "name": "Blue Star Double Door Refrigerator Fan Motor",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 407,
+    "name": "Blue Star Double Door Refrigerator PCB Board",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 408,
+    "name": "Blue Star Double Door Refrigerator Door Gasket",
+    "brand": "Blue Star",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 409,
+    "name": "Haier Single Door Refrigerator Compressor",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 410,
+    "name": "Haier Single Door Refrigerator Thermostat",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 411,
+    "name": "Haier Single Door Refrigerator Defrost Heater",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 412,
+    "name": "Haier Single Door Refrigerator Fan Motor",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 413,
+    "name": "Haier Single Door Refrigerator PCB Board",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 414,
+    "name": "Haier Single Door Refrigerator Door Gasket",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 415,
+    "name": "Haier Double Door Refrigerator Compressor",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 416,
+    "name": "Haier Double Door Refrigerator Thermostat",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 417,
+    "name": "Haier Double Door Refrigerator Defrost Heater",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 418,
+    "name": "Haier Double Door Refrigerator Fan Motor",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 419,
+    "name": "Haier Double Door Refrigerator PCB Board",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 420,
+    "name": "Haier Double Door Refrigerator Door Gasket",
+    "brand": "Haier",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 421,
+    "name": "IFB Single Door Refrigerator Compressor",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 422,
+    "name": "IFB Single Door Refrigerator Thermostat",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 423,
+    "name": "IFB Single Door Refrigerator Defrost Heater",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 424,
+    "name": "IFB Single Door Refrigerator Fan Motor",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 425,
+    "name": "IFB Single Door Refrigerator PCB Board",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 426,
+    "name": "IFB Single Door Refrigerator Door Gasket",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 427,
+    "name": "IFB Double Door Refrigerator Compressor",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 428,
+    "name": "IFB Double Door Refrigerator Thermostat",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 429,
+    "name": "IFB Double Door Refrigerator Defrost Heater",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 430,
+    "name": "IFB Double Door Refrigerator Fan Motor",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 431,
+    "name": "IFB Double Door Refrigerator PCB Board",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 432,
+    "name": "IFB Double Door Refrigerator Door Gasket",
+    "brand": "IFB",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 433,
+    "name": "Bosch Single Door Refrigerator Compressor",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 434,
+    "name": "Bosch Single Door Refrigerator Thermostat",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 435,
+    "name": "Bosch Single Door Refrigerator Defrost Heater",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 436,
+    "name": "Bosch Single Door Refrigerator Fan Motor",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 437,
+    "name": "Bosch Single Door Refrigerator PCB Board",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 438,
+    "name": "Bosch Single Door Refrigerator Door Gasket",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 439,
+    "name": "Bosch Double Door Refrigerator Compressor",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 440,
+    "name": "Bosch Double Door Refrigerator Thermostat",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 441,
+    "name": "Bosch Double Door Refrigerator Defrost Heater",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 442,
+    "name": "Bosch Double Door Refrigerator Fan Motor",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 443,
+    "name": "Bosch Double Door Refrigerator PCB Board",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 444,
+    "name": "Bosch Double Door Refrigerator Door Gasket",
+    "brand": "Bosch",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 445,
+    "name": "Onida Single Door Refrigerator Compressor",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 446,
+    "name": "Onida Single Door Refrigerator Thermostat",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 447,
+    "name": "Onida Single Door Refrigerator Defrost Heater",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 448,
+    "name": "Onida Single Door Refrigerator Fan Motor",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 449,
+    "name": "Onida Single Door Refrigerator PCB Board",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 450,
+    "name": "Onida Single Door Refrigerator Door Gasket",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 451,
+    "name": "Onida Double Door Refrigerator Compressor",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 452,
+    "name": "Onida Double Door Refrigerator Thermostat",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 453,
+    "name": "Onida Double Door Refrigerator Defrost Heater",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 454,
+    "name": "Onida Double Door Refrigerator Fan Motor",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 455,
+    "name": "Onida Double Door Refrigerator PCB Board",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 456,
+    "name": "Onida Double Door Refrigerator Door Gasket",
+    "brand": "Onida",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 457,
+    "name": "Videocon Single Door Refrigerator Compressor",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 458,
+    "name": "Videocon Single Door Refrigerator Thermostat",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 459,
+    "name": "Videocon Single Door Refrigerator Defrost Heater",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 460,
+    "name": "Videocon Single Door Refrigerator Fan Motor",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 461,
+    "name": "Videocon Single Door Refrigerator PCB Board",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 462,
+    "name": "Videocon Single Door Refrigerator Door Gasket",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 463,
+    "name": "Videocon Double Door Refrigerator Compressor",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 464,
+    "name": "Videocon Double Door Refrigerator Thermostat",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 465,
+    "name": "Videocon Double Door Refrigerator Defrost Heater",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 466,
+    "name": "Videocon Double Door Refrigerator Fan Motor",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 467,
+    "name": "Videocon Double Door Refrigerator PCB Board",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 468,
+    "name": "Videocon Double Door Refrigerator Door Gasket",
+    "brand": "Videocon",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 469,
+    "name": "Lloyd Single Door Refrigerator Compressor",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 470,
+    "name": "Lloyd Single Door Refrigerator Thermostat",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 471,
+    "name": "Lloyd Single Door Refrigerator Defrost Heater",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 472,
+    "name": "Lloyd Single Door Refrigerator Fan Motor",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 473,
+    "name": "Lloyd Single Door Refrigerator PCB Board",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 474,
+    "name": "Lloyd Single Door Refrigerator Door Gasket",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Single Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 475,
+    "name": "Lloyd Double Door Refrigerator Compressor",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/compressor.jpg"
+  },
+  {
+    "id": 476,
+    "name": "Lloyd Double Door Refrigerator Thermostat",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/thermostat.jpg"
+  },
+  {
+    "id": 477,
+    "name": "Lloyd Double Door Refrigerator Defrost Heater",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/defrost-heater.jpg"
+  },
+  {
+    "id": 478,
+    "name": "Lloyd Double Door Refrigerator Fan Motor",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/fan-motor.jpg"
+  },
+  {
+    "id": 479,
+    "name": "Lloyd Double Door Refrigerator PCB Board",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/pcb-board.jpg"
+  },
+  {
+    "id": 480,
+    "name": "Lloyd Double Door Refrigerator Door Gasket",
+    "brand": "Lloyd",
+    "category": "Refrigerator Spare Parts",
+    "machineType": "Double Door Refrigerator",
+    "image": "/images/products/refrigerator/door-gasket.jpg"
+  },
+  {
+    "id": 481,
+    "name": "LG Front Load Washing Machine Drain Pump",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 482,
+    "name": "LG Front Load Washing Machine Wash Motor",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 483,
+    "name": "LG Front Load Washing Machine Inlet Valve",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 484,
+    "name": "LG Front Load Washing Machine Timer",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 485,
+    "name": "LG Front Load Washing Machine Belt",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 486,
+    "name": "LG Front Load Washing Machine Shock Absorber",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 487,
+    "name": "LG Top Load Washing Machine Drain Pump",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 488,
+    "name": "LG Top Load Washing Machine Wash Motor",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 489,
+    "name": "LG Top Load Washing Machine Inlet Valve",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 490,
+    "name": "LG Top Load Washing Machine Timer",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 491,
+    "name": "LG Top Load Washing Machine Belt",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 492,
+    "name": "LG Top Load Washing Machine Shock Absorber",
+    "brand": "LG",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 493,
+    "name": "Samsung Front Load Washing Machine Drain Pump",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 494,
+    "name": "Samsung Front Load Washing Machine Wash Motor",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 495,
+    "name": "Samsung Front Load Washing Machine Inlet Valve",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 496,
+    "name": "Samsung Front Load Washing Machine Timer",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 497,
+    "name": "Samsung Front Load Washing Machine Belt",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 498,
+    "name": "Samsung Front Load Washing Machine Shock Absorber",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 499,
+    "name": "Samsung Top Load Washing Machine Drain Pump",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 500,
+    "name": "Samsung Top Load Washing Machine Wash Motor",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 501,
+    "name": "Samsung Top Load Washing Machine Inlet Valve",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 502,
+    "name": "Samsung Top Load Washing Machine Timer",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 503,
+    "name": "Samsung Top Load Washing Machine Belt",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 504,
+    "name": "Samsung Top Load Washing Machine Shock Absorber",
+    "brand": "Samsung",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 505,
+    "name": "Whirlpool Front Load Washing Machine Drain Pump",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 506,
+    "name": "Whirlpool Front Load Washing Machine Wash Motor",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 507,
+    "name": "Whirlpool Front Load Washing Machine Inlet Valve",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 508,
+    "name": "Whirlpool Front Load Washing Machine Timer",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 509,
+    "name": "Whirlpool Front Load Washing Machine Belt",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 510,
+    "name": "Whirlpool Front Load Washing Machine Shock Absorber",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 511,
+    "name": "Whirlpool Top Load Washing Machine Drain Pump",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 512,
+    "name": "Whirlpool Top Load Washing Machine Wash Motor",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 513,
+    "name": "Whirlpool Top Load Washing Machine Inlet Valve",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 514,
+    "name": "Whirlpool Top Load Washing Machine Timer",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 515,
+    "name": "Whirlpool Top Load Washing Machine Belt",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 516,
+    "name": "Whirlpool Top Load Washing Machine Shock Absorber",
+    "brand": "Whirlpool",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 517,
+    "name": "Voltas Front Load Washing Machine Drain Pump",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 518,
+    "name": "Voltas Front Load Washing Machine Wash Motor",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 519,
+    "name": "Voltas Front Load Washing Machine Inlet Valve",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 520,
+    "name": "Voltas Front Load Washing Machine Timer",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 521,
+    "name": "Voltas Front Load Washing Machine Belt",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 522,
+    "name": "Voltas Front Load Washing Machine Shock Absorber",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 523,
+    "name": "Voltas Top Load Washing Machine Drain Pump",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 524,
+    "name": "Voltas Top Load Washing Machine Wash Motor",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 525,
+    "name": "Voltas Top Load Washing Machine Inlet Valve",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 526,
+    "name": "Voltas Top Load Washing Machine Timer",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 527,
+    "name": "Voltas Top Load Washing Machine Belt",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 528,
+    "name": "Voltas Top Load Washing Machine Shock Absorber",
+    "brand": "Voltas",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 529,
+    "name": "Daikin Front Load Washing Machine Drain Pump",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 530,
+    "name": "Daikin Front Load Washing Machine Wash Motor",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 531,
+    "name": "Daikin Front Load Washing Machine Inlet Valve",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 532,
+    "name": "Daikin Front Load Washing Machine Timer",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 533,
+    "name": "Daikin Front Load Washing Machine Belt",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 534,
+    "name": "Daikin Front Load Washing Machine Shock Absorber",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 535,
+    "name": "Daikin Top Load Washing Machine Drain Pump",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 536,
+    "name": "Daikin Top Load Washing Machine Wash Motor",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 537,
+    "name": "Daikin Top Load Washing Machine Inlet Valve",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 538,
+    "name": "Daikin Top Load Washing Machine Timer",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 539,
+    "name": "Daikin Top Load Washing Machine Belt",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 540,
+    "name": "Daikin Top Load Washing Machine Shock Absorber",
+    "brand": "Daikin",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 541,
+    "name": "Godrej Front Load Washing Machine Drain Pump",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 542,
+    "name": "Godrej Front Load Washing Machine Wash Motor",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 543,
+    "name": "Godrej Front Load Washing Machine Inlet Valve",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 544,
+    "name": "Godrej Front Load Washing Machine Timer",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 545,
+    "name": "Godrej Front Load Washing Machine Belt",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 546,
+    "name": "Godrej Front Load Washing Machine Shock Absorber",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 547,
+    "name": "Godrej Top Load Washing Machine Drain Pump",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 548,
+    "name": "Godrej Top Load Washing Machine Wash Motor",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 549,
+    "name": "Godrej Top Load Washing Machine Inlet Valve",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 550,
+    "name": "Godrej Top Load Washing Machine Timer",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 551,
+    "name": "Godrej Top Load Washing Machine Belt",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 552,
+    "name": "Godrej Top Load Washing Machine Shock Absorber",
+    "brand": "Godrej",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 553,
+    "name": "Panasonic Front Load Washing Machine Drain Pump",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 554,
+    "name": "Panasonic Front Load Washing Machine Wash Motor",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 555,
+    "name": "Panasonic Front Load Washing Machine Inlet Valve",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 556,
+    "name": "Panasonic Front Load Washing Machine Timer",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 557,
+    "name": "Panasonic Front Load Washing Machine Belt",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 558,
+    "name": "Panasonic Front Load Washing Machine Shock Absorber",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 559,
+    "name": "Panasonic Top Load Washing Machine Drain Pump",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 560,
+    "name": "Panasonic Top Load Washing Machine Wash Motor",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 561,
+    "name": "Panasonic Top Load Washing Machine Inlet Valve",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 562,
+    "name": "Panasonic Top Load Washing Machine Timer",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 563,
+    "name": "Panasonic Top Load Washing Machine Belt",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 564,
+    "name": "Panasonic Top Load Washing Machine Shock Absorber",
+    "brand": "Panasonic",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 565,
+    "name": "Hitachi Front Load Washing Machine Drain Pump",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 566,
+    "name": "Hitachi Front Load Washing Machine Wash Motor",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 567,
+    "name": "Hitachi Front Load Washing Machine Inlet Valve",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 568,
+    "name": "Hitachi Front Load Washing Machine Timer",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 569,
+    "name": "Hitachi Front Load Washing Machine Belt",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 570,
+    "name": "Hitachi Front Load Washing Machine Shock Absorber",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 571,
+    "name": "Hitachi Top Load Washing Machine Drain Pump",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 572,
+    "name": "Hitachi Top Load Washing Machine Wash Motor",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 573,
+    "name": "Hitachi Top Load Washing Machine Inlet Valve",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 574,
+    "name": "Hitachi Top Load Washing Machine Timer",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 575,
+    "name": "Hitachi Top Load Washing Machine Belt",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 576,
+    "name": "Hitachi Top Load Washing Machine Shock Absorber",
+    "brand": "Hitachi",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 577,
+    "name": "Blue Star Front Load Washing Machine Drain Pump",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 578,
+    "name": "Blue Star Front Load Washing Machine Wash Motor",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 579,
+    "name": "Blue Star Front Load Washing Machine Inlet Valve",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 580,
+    "name": "Blue Star Front Load Washing Machine Timer",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 581,
+    "name": "Blue Star Front Load Washing Machine Belt",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 582,
+    "name": "Blue Star Front Load Washing Machine Shock Absorber",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 583,
+    "name": "Blue Star Top Load Washing Machine Drain Pump",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 584,
+    "name": "Blue Star Top Load Washing Machine Wash Motor",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 585,
+    "name": "Blue Star Top Load Washing Machine Inlet Valve",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 586,
+    "name": "Blue Star Top Load Washing Machine Timer",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 587,
+    "name": "Blue Star Top Load Washing Machine Belt",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 588,
+    "name": "Blue Star Top Load Washing Machine Shock Absorber",
+    "brand": "Blue Star",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 589,
+    "name": "Haier Front Load Washing Machine Drain Pump",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 590,
+    "name": "Haier Front Load Washing Machine Wash Motor",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 591,
+    "name": "Haier Front Load Washing Machine Inlet Valve",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 592,
+    "name": "Haier Front Load Washing Machine Timer",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 593,
+    "name": "Haier Front Load Washing Machine Belt",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 594,
+    "name": "Haier Front Load Washing Machine Shock Absorber",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 595,
+    "name": "Haier Top Load Washing Machine Drain Pump",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 596,
+    "name": "Haier Top Load Washing Machine Wash Motor",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 597,
+    "name": "Haier Top Load Washing Machine Inlet Valve",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 598,
+    "name": "Haier Top Load Washing Machine Timer",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 599,
+    "name": "Haier Top Load Washing Machine Belt",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 600,
+    "name": "Haier Top Load Washing Machine Shock Absorber",
+    "brand": "Haier",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 601,
+    "name": "IFB Front Load Washing Machine Drain Pump",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 602,
+    "name": "IFB Front Load Washing Machine Wash Motor",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 603,
+    "name": "IFB Front Load Washing Machine Inlet Valve",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 604,
+    "name": "IFB Front Load Washing Machine Timer",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 605,
+    "name": "IFB Front Load Washing Machine Belt",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 606,
+    "name": "IFB Front Load Washing Machine Shock Absorber",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 607,
+    "name": "IFB Top Load Washing Machine Drain Pump",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 608,
+    "name": "IFB Top Load Washing Machine Wash Motor",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 609,
+    "name": "IFB Top Load Washing Machine Inlet Valve",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 610,
+    "name": "IFB Top Load Washing Machine Timer",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 611,
+    "name": "IFB Top Load Washing Machine Belt",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 612,
+    "name": "IFB Top Load Washing Machine Shock Absorber",
+    "brand": "IFB",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 613,
+    "name": "Bosch Front Load Washing Machine Drain Pump",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 614,
+    "name": "Bosch Front Load Washing Machine Wash Motor",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 615,
+    "name": "Bosch Front Load Washing Machine Inlet Valve",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 616,
+    "name": "Bosch Front Load Washing Machine Timer",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 617,
+    "name": "Bosch Front Load Washing Machine Belt",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 618,
+    "name": "Bosch Front Load Washing Machine Shock Absorber",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 619,
+    "name": "Bosch Top Load Washing Machine Drain Pump",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 620,
+    "name": "Bosch Top Load Washing Machine Wash Motor",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 621,
+    "name": "Bosch Top Load Washing Machine Inlet Valve",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 622,
+    "name": "Bosch Top Load Washing Machine Timer",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 623,
+    "name": "Bosch Top Load Washing Machine Belt",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 624,
+    "name": "Bosch Top Load Washing Machine Shock Absorber",
+    "brand": "Bosch",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 625,
+    "name": "Onida Front Load Washing Machine Drain Pump",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 626,
+    "name": "Onida Front Load Washing Machine Wash Motor",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 627,
+    "name": "Onida Front Load Washing Machine Inlet Valve",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 628,
+    "name": "Onida Front Load Washing Machine Timer",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 629,
+    "name": "Onida Front Load Washing Machine Belt",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 630,
+    "name": "Onida Front Load Washing Machine Shock Absorber",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 631,
+    "name": "Onida Top Load Washing Machine Drain Pump",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 632,
+    "name": "Onida Top Load Washing Machine Wash Motor",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 633,
+    "name": "Onida Top Load Washing Machine Inlet Valve",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 634,
+    "name": "Onida Top Load Washing Machine Timer",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 635,
+    "name": "Onida Top Load Washing Machine Belt",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 636,
+    "name": "Onida Top Load Washing Machine Shock Absorber",
+    "brand": "Onida",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 637,
+    "name": "Videocon Front Load Washing Machine Drain Pump",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 638,
+    "name": "Videocon Front Load Washing Machine Wash Motor",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 639,
+    "name": "Videocon Front Load Washing Machine Inlet Valve",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 640,
+    "name": "Videocon Front Load Washing Machine Timer",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 641,
+    "name": "Videocon Front Load Washing Machine Belt",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 642,
+    "name": "Videocon Front Load Washing Machine Shock Absorber",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 643,
+    "name": "Videocon Top Load Washing Machine Drain Pump",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 644,
+    "name": "Videocon Top Load Washing Machine Wash Motor",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 645,
+    "name": "Videocon Top Load Washing Machine Inlet Valve",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 646,
+    "name": "Videocon Top Load Washing Machine Timer",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 647,
+    "name": "Videocon Top Load Washing Machine Belt",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 648,
+    "name": "Videocon Top Load Washing Machine Shock Absorber",
+    "brand": "Videocon",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 649,
+    "name": "Lloyd Front Load Washing Machine Drain Pump",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 650,
+    "name": "Lloyd Front Load Washing Machine Wash Motor",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 651,
+    "name": "Lloyd Front Load Washing Machine Inlet Valve",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 652,
+    "name": "Lloyd Front Load Washing Machine Timer",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 653,
+    "name": "Lloyd Front Load Washing Machine Belt",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 654,
+    "name": "Lloyd Front Load Washing Machine Shock Absorber",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Front Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 655,
+    "name": "Lloyd Top Load Washing Machine Drain Pump",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/drain-pump.jpg"
+  },
+  {
+    "id": 656,
+    "name": "Lloyd Top Load Washing Machine Wash Motor",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/motor.jpg"
+  },
+  {
+    "id": 657,
+    "name": "Lloyd Top Load Washing Machine Inlet Valve",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/inlet-valve.jpg"
+  },
+  {
+    "id": 658,
+    "name": "Lloyd Top Load Washing Machine Timer",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/timer.jpg"
+  },
+  {
+    "id": 659,
+    "name": "Lloyd Top Load Washing Machine Belt",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/belt.jpg"
+  },
+  {
+    "id": 660,
+    "name": "Lloyd Top Load Washing Machine Shock Absorber",
+    "brand": "Lloyd",
+    "category": "Washing Machine Spare Parts",
+    "machineType": "Top Load Washing Machine",
+    "image": "/images/products/washing-machine/shock-absorber.jpg"
+  },
+  {
+    "id": 661,
+    "name": "Floron R32 Gas Cylinder",
+    "brand": "Floron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 662,
+    "name": "Mafron R32 Gas Cylinder",
+    "brand": "Mafron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 663,
+    "name": "Refrigerant R32 Gas Cylinder",
+    "brand": "Refrigerant",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 664,
+    "name": "Honeywell R32 Gas Cylinder",
+    "brand": "Honeywell",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 665,
+    "name": "Godrej R32 Gas Cylinder",
+    "brand": "Godrej",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 666,
+    "name": "Value R32 Gas Cylinder",
+    "brand": "Value",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 667,
+    "name": "Generic R32 Gas Cylinder",
+    "brand": "Generic",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r32.jpg"
+  },
+  {
+    "id": 668,
+    "name": "Floron R410A Gas Cylinder",
+    "brand": "Floron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 669,
+    "name": "Mafron R410A Gas Cylinder",
+    "brand": "Mafron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 670,
+    "name": "Refrigerant R410A Gas Cylinder",
+    "brand": "Refrigerant",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 671,
+    "name": "Honeywell R410A Gas Cylinder",
+    "brand": "Honeywell",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 672,
+    "name": "Godrej R410A Gas Cylinder",
+    "brand": "Godrej",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 673,
+    "name": "Value R410A Gas Cylinder",
+    "brand": "Value",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 674,
+    "name": "Generic R410A Gas Cylinder",
+    "brand": "Generic",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r410a.jpg"
+  },
+  {
+    "id": 675,
+    "name": "Floron R22 Gas Cylinder",
+    "brand": "Floron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 676,
+    "name": "Mafron R22 Gas Cylinder",
+    "brand": "Mafron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 677,
+    "name": "Refrigerant R22 Gas Cylinder",
+    "brand": "Refrigerant",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 678,
+    "name": "Honeywell R22 Gas Cylinder",
+    "brand": "Honeywell",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 679,
+    "name": "Godrej R22 Gas Cylinder",
+    "brand": "Godrej",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 680,
+    "name": "Value R22 Gas Cylinder",
+    "brand": "Value",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 681,
+    "name": "Generic R22 Gas Cylinder",
+    "brand": "Generic",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r22.jpg"
+  },
+  {
+    "id": 682,
+    "name": "Floron R134a Gas Can",
+    "brand": "Floron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 683,
+    "name": "Mafron R134a Gas Can",
+    "brand": "Mafron",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 684,
+    "name": "Refrigerant R134a Gas Can",
+    "brand": "Refrigerant",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 685,
+    "name": "Honeywell R134a Gas Can",
+    "brand": "Honeywell",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 686,
+    "name": "Godrej R134a Gas Can",
+    "brand": "Godrej",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 687,
+    "name": "Value R134a Gas Can",
+    "brand": "Value",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  },
+  {
+    "id": 688,
+    "name": "Generic R134a Gas Can",
+    "brand": "Generic",
+    "category": "AC Gas Cylinders",
+    "machineType": "AC Gas",
+    "image": "/images/products/ac-gas/r134a.jpg"
+  }
+]
