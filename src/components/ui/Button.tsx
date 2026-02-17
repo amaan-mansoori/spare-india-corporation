@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ReactNode } from "react";
-import { cn } from "@/lib/utils";
+
 
 interface ButtonProps {
     children: ReactNode;
@@ -50,12 +50,12 @@ export function Button({
         lg: "px-6 py-4 text-lg",
     };
 
-    const combinedClasses = cn(
-        baseStyles,
-        variants[variant],
-        sizes[size],
-        className
-    );
+    const combinedClasses =
+        baseStyles + " " +
+        variants[variant] + " " +
+        sizes[size] + " " +
+        className;
+
 
     // External link
     if (href && external) {
