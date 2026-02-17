@@ -1,68 +1,100 @@
 "use client";
 
-import React from "react";
 import { motion } from "framer-motion";
-import clsx from "clsx";
+import Link from "next/link";
+import { ReactNode } from "react";
+import { cn } from "@/lib/utils";
 
 interface ButtonProps {
-    children: React.ReactNode;
+    children: ReactNode;
+    href?: string;
     onClick?: () => void;
     className?: string;
-    variant?: "default" | "outline" | "ghost";
+    variant?: "primary" | "secondary" | "ghost" | "outline";
+
     size?: "sm" | "md" | "lg";
-    href?: string;
+    external?: boolean;
 }
 
-export default function Button({
+export function Button({
     children,
-    onClick,
-    className,
-    variant = "default",
-    size = "md",
     href,
+    onClick,
+    className = "",
+    variant = "primary",
+    size = "md",
+    external = false,
 }: ButtonProps) {
 
-    const base =
-        "inline-flex items-center justify-center font-medium rounded-xl transition-all duration-300";
+    const baseStyles =
+        "inline-flex items-center justify-center rounded-xl font-semibold transition-all duration-300";
 
     const variants = {
-        default: "bg-blue-600 text-white hover:bg-blue-700 shadow-md",
-        outline: "border border-gray-300 hover:bg-gray-100",
-        ghost: "hover:bg-gray-100",
+        primary:
+            "bg-blue-600 text-white hover:bg-blue-700 shadow-md hover:shadow-lg",
+
+        secondary:
+            "bg-gray-100 text-gray-900 hover:bg-gray-200",
+
+        ghost:
+            "bg-transparent text-gray-700 hover:bg-gray-100",
+
+        outline:
+            "border border-gray-300 text-gray-800 hover:bg-gray-100 hover:border-gray-400",
     };
+
 
     const sizes = {
-        sm: "px-4 py-2 text-sm",
-        md: "px-6 py-3 text-base",
-        lg: "px-8 py-4 text-lg",
+        sm: "px-3 py-2 text-sm",
+        md: "px-5 py-3 text-base",
+        lg: "px-6 py-4 text-lg",
     };
 
-    const combinedClasses = clsx(
-        base,
+    const combinedClasses = cn(
+        baseStyles,
         variants[variant],
         sizes[size],
         className
     );
 
-    if (href) {
+    // External link
+    if (href && external) {
         return (
             <motion.a
                 href={href}
                 className={combinedClasses}
+                target="_blank"
+                rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.97 }}
+                whileTap={{ scale: 0.95 }}
             >
                 {children}
             </motion.a>
         );
     }
 
+    // Internal link
+    if (href) {
+        return (
+            <Link href={href}>
+                <motion.span
+                    className={combinedClasses}
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                >
+                    {children}
+                </motion.span>
+            </Link>
+        );
+    }
+
+    // Button
     return (
         <motion.button
             onClick={onClick}
             className={combinedClasses}
             whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.97 }}
+            whileTap={{ scale: 0.95 }}
         >
             {children}
         </motion.button>
