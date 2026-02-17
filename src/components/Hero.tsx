@@ -27,18 +27,23 @@ export default function Hero() {
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                         <Button
                             href="/catalog"
-                            className="px-8 py-4 text-lg rounded-xl h-auto w-auto"
+                            variant="primary"
+                            size="lg"
+                            className="mt-6 shadow-lg hover:shadow-xl"
                         >
                             Browse Catalog
                         </Button>
+
                         <Button
-                            variant="outline"
                             href="https://wa.me/918269949879"
                             external
-                            className="px-8 py-4 text-lg rounded-xl h-auto w-auto"
+                            variant="secondary"
+                            size="lg"
+                            className="mt-4"
                         >
                             Contact on WhatsApp
                         </Button>
+
                     </div>
                 </motion.div>
             </div>
