@@ -53,9 +53,7 @@ export default function Navbar() {
                                 {link.name}
                             </Link>
                         ))}
-                        <Button size="sm" href="https://wa.me/918269949879" external>
-                            WhatsApp Us
-                        </Button>
+
                     </div>
 
                     {/* Mobile Menu Button */}

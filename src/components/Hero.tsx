@@ -31,7 +31,7 @@ export default function Hero() {
                             size="lg"
                             className="mt-6 shadow-lg hover:shadow-xl"
                         >
-                            Browse Catalog
+                            <span className="text-blue-600 text-base font-bold">Browse Catalog</span>
                         </Button>
 
                         <Button
