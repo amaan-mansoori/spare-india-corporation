@@ -46,8 +46,8 @@ export default function Navbar() {
                     </span>
                 </Link>
 
-                {/* Always visible Menu */}
-                <div className="flex items-center gap-8">
+                {/* Desktop Menu ONLY */}
+                <div className="hidden md:flex items-center gap-8">
                     {navLinks.map((link) => (
                         <Link
                             key={link.name}
