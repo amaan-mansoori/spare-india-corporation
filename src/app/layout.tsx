@@ -20,14 +20,31 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://spareindiacorporation.vercel.app"),
+
   title: "Spare India Corporation",
-  description: "Vidisha's Best AC, Refrigerator and Washing Machine Spare Parts Shop",
-  keywords: ["Spare Parts", "Vidisha", "AC Parts", "Refrigerator Parts", "Washing Machine Parts", "Spare India Corporation"],
+  description:
+    "Best spare parts shop in Vidisha for AC, washing machine, refrigerator and more.",
+
+  keywords: [
+    "Spare Parts",
+    "Vidisha",
+    "AC Parts",
+    "Refrigerator Parts",
+    "Washing Machine Parts",
+    "Spare India Corporation",
+  ],
+
   authors: [{ name: "Spare India Corporation" }],
+
+  verification: {
+    google: "google090b6343ffb5a139",
+  },
+
   openGraph: {
     title: "Spare India Corporation | Best Spare Parts Shop in Vidisha",
-    description: "Your one-stop destination for A to Z spare parts in Vidisha.",
-    url: "https://spareindiacool.com",
+    description:
+      "Your one-stop destination for A to Z spare parts in Vidisha.",
+    url: "https://spareindiacorporation.vercel.app",
     siteName: "Spare India Corporation",
     images: [
       {
