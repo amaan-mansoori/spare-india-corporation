@@ -25,7 +25,7 @@ export default function Footer() {
                 <div>
                     <h3 className="font-semibold mb-4">Contact</h3>
                     <ul className="space-y-2 text-[var(--muted)]">
-                        <li>Owner: Shahrukh (Ubaid) Mansoori</li>
+                        <li>Owner: Ubaid Mansoori</li>
                         <li>Phone: +91 8269949879</li>
                         <li>Vidisha, Madhya Pradesh</li>
                     </ul>
