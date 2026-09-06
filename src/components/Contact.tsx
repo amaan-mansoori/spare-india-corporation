@@ -35,7 +35,7 @@ export default function Contact() {
                             <div>
                                 <h3 className="font-bold text-lg">Contact Info</h3>
                                 <p className="text-[var(--muted)]">+91 8269949879</p>
-                                <p className="text-[var(--muted)]">Owner: Shahrukh (Ubaid) Mansoori</p>
+                                <p className="text-[var(--muted)]">Owner: Ubaid Mansoori</p>
                             </div>
                         </div>
 
